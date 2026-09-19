@@ -1,0 +1,9 @@
+C:\Openworld\bin\x64\Debug\sfml-graphics-d-3.dll
+C:\Openworld\bin\x64\Debug\sfml-window-d-3.dll
+C:\Openworld\bin\x64\Debug\sfml-system-d-3.dll
+C:\Openworld\bin\x64\Debug\freetyped.dll
+C:\Openworld\bin\x64\Debug\zd.dll
+C:\Openworld\bin\x64\Debug\bz2d.dll
+C:\Openworld\bin\x64\Debug\libpng16d.dll
+C:\Openworld\bin\x64\Debug\brotlidec.dll
+C:\Openworld\bin\x64\Debug\brotlicommon.dll
