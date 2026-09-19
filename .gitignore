@@ -1,0 +1,21 @@
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+*.VC.db
+*.pdb
+*.ilk
+*.log
+
+# Build outputs
+bin/
+obj/
+
+# General
+*.exe
+*.dll
+*.obj
+*.tlog
+*.lastbuildstate
+*.recipe
